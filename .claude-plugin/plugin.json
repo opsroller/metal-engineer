@@ -1,0 +1,24 @@
+{
+  "name": "metal-engineer",
+  "version": "0.1.0",
+  "description": "Metal engineer role: builds and maintains GPU code on Apple platforms at the 27 releases with Metal 4 and Metal Shading Language 4.1: renderer and compute architecture on tile-based Apple GPUs, shaders, capability checks and device tiers across iPhone, iPad, Mac, Apple Vision Pro and Apple TV, Swift 6.4 concurrency and C++ interop around the GPU, validation, capture and debugging, performance profiling with counters, and GPU tests in CI. Works alongside Apple's own Xcode and Metal agent skills rather than repeating them.",
+  "author": {
+    "name": "opsroller"
+  },
+  "repository": "https://github.com/opsroller/metal-engineer",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "role",
+    "job-function",
+    "metal",
+    "gpu",
+    "apple",
+    "shaders",
+    "msl",
+    "profiling",
+    "ios",
+    "macos",
+    "visionos",
+    "tvos"
+  ]
+}
